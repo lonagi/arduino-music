@@ -1,3 +1,5 @@
+//HELLO WORLD!
+
 const int PinDyn = 10; // Номер порта Динамика (Зумера)
 const byte COUNT_NOTES = 11; // Количество нот
 
