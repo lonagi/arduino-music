@@ -9,4 +9,4 @@ REMEMBER!
 
 CONNECT **PIN 10** AS PLUS AND **GND** AS MINUS
 
-![](https://raw.githubusercontent.com/lonagi22/arduino-music/master/git_res/screen1.jpg)
+![](https://github.com/lonagi/arduino-music/blob/master/git_res/screen1.jpg)
